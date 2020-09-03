@@ -2,8 +2,6 @@
 
 ## Operasi *directory* (*folder*)
 
-### melihat isi *directory*
-
 ### membuat *directory*/*folder*
 
 ```
@@ -38,4 +36,32 @@ untuk pindah ke *parent directory* (folder atasnya)
 
 ```
 $ cd ..
+```
+
+### membuat file kosong
+
+
+```
+$ touch nama-file
+```
+
+### menghapus file
+
+
+```
+$ rm nama-file
+```
+
+### mengganti nama file
+
+
+```
+$ mv nama-file nama-baru
+```
+
+### memindah file ke *directory* lain
+
+
+```
+$ mv nama-file nama-folder
 ```
