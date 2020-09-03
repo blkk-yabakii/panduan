@@ -1,5 +1,13 @@
 # panduan *command line*
 
+Berikut ini adalah panduan menggunakan *command line*. Program *command line*
+dapat dibuka melalui *terminal emulator* bawaan dari git, yaitu *git bash*.
+*git bash* dibuka dengan cara klik kanan saat membuka folder, lalu klik
+*Git bash here ...*.
+
+**CATATAN:** saat mengikuti contoh-contoh di bawah ini, symbol `$` tidak perlu
+diikutkan, karena symbol `$` hanya merupakan penanda awal command.
+
 ## Operasi *directory* (*folder*)
 
 ### membuat *directory*/*folder*
